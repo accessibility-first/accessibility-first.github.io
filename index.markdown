@@ -5,9 +5,10 @@
 layout: home
 ---
 
-Bienvenue sur mon blog Accessibility First !
+Bienvenue sur mon blog personnel dédié à l'accessibilité !
 
-Si vous débarquez que vous à peine sur mon site et que vous ne savez pas vraiment où aller, je vous invite à lire le manifest du blog :).
+
+Je suis actuellement en train de travailler sur le design du blog (comme vous pouvez le constater, c'est un peu sommaire) ainsi que le premier article du blog.
 
 
 Si vous avez des questions sur un sujet, si j'ai fait une erreur ou que vous souhaitez me dire à quel point vous m'aimez ou me detesez, je vous invite à m'envoyer mail. Mon addresse est dans le pied de page.
