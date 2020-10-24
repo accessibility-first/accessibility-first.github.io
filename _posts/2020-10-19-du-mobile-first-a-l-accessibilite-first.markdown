@@ -7,18 +7,18 @@ date:   2020-10-19 18:00:00 +0100
 
 Bonjour à tous et bienvenue sur le premier post de mon blog dédié à l'accessibilité web. J'avais envie depuis pas mal de temps de créer ce blog pour pouvoir partager et vulgariser mes connaissances autour de l'accessibilité.
 
-J'ai récémment réalisé deux MOOCs avec OpenClassrooms dédié à l'accessibilité (ça, c'est pour la partie auto-promotion et self branding) et je me suis dit que c'était le bon moment pour se lancer.
+J'ai récemment réalisé deux MOOCs avec OpenClassrooms dédié à l'accessibilité (ça, c'est pour la partie auto-promotion et self branding) et je me suis dit que c'était le bon moment pour se lancer.
 
 Pour ce premier post, je ne vais pas réellement rentrer dans le concret mais m'intéresser à théoriser un concept qui me tient à coeur. Cela dit, dès le prochain post, on rentrera dans le vif du sujet et je vous parlerais de contraste.
 
 
 ## 1. L'influence du Mobile First dans la culture web
 
-Bon, je pense que la majeure partie d'entre vous connaisse le concept de Mobile First et des idées vehiculées par ce concept. D'ailleurs, même si vous n'êtes pas développeur, mais chef de projet ou designer, les concepts de Mobile first et de Responsive Web Design ne vous sont sûrement pas étrangers.
+Bon, je pense que la majeure partie d'entre vous connaisse le concept de Mobile First et des idées véhiculées par ce concept. D'ailleurs, même si vous n'êtes pas développeur, mais chef de projet ou designer, les concepts de Mobile first et de Responsive Web Design ne vous sont sûrement pas étrangers.
 
-Pour faire simple, le Mobile First est un concept qui est né il y a maintenant quelques années (en 2011 par Luke Wroblewski selon les internets) avec l'essort du web sur smartphone.
+Pour faire simple, le Mobile First est un concept qui est né il y a maintenant quelques années (en 2011 par Luke Wroblewski selon les internets) avec l’essor du web sur smartphone.
 
-L'idée étant de dire que les concepteurs de site web, qu'ils ou elles soient designers ou développeurs, devaient penser la conception mobile dès le début d'un projet et non essayer de l'adapter en cours de route. Autrement dit, cela veut dire concevoir et créer la version mobile, puis concevoir et créer la version desktop : les usages de ces supports étant froncièrement différents.
+L'idée étant de dire que les concepteurs de site web, qu'ils ou elles soient designers ou développeurs, devaient penser la conception mobile dès le début d'un projet et non essayer de l'adapter en cours de route. Autrement dit, cela veut dire concevoir et créer la version mobile, puis concevoir et créer la version desktop : les usages de ces supports étant foncièrement différents.
 
 D'ailleurs, côté code, on va d'abord développer la version mobile, qui est souvent plus simple en terme de "layout". Puis, on va adapter le côté, notamment la partie CSS, pour la partie desktop. Cette dernière étant souvent plus complexe que le mobile en terme de layout.
 
@@ -31,9 +31,9 @@ Si vous êtes en train de lire ce post, c'est certainement, du moins je l'espèr
 
 Selon [Wikipedia](https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_du_web), "__L'accessibilité du web est la problématique de l'accès aux contenus et services web par les personnes handicapées (déficients visuels, sourds, malentendants, etc.) et plus généralement par tous les utilisateurs, quels que soient leurs dispositifs d’accès (mobile, tablette, etc.) ou leurs conditions d’environnement (niveau sonore, éclairement, etc.).__"
 
-Je vous invite vraiment à lire l'article en entier sur Wikipedia. Je pense qu'on peut difficillement faire plus complet comme définition dans le sens où elle permet de comprendre que :
+Je vous invite vraiment à lire l'article en entier sur Wikipedia. Je pense qu'on peut difficilement faire plus complet comme définition dans le sens où elle permet de comprendre que :
 - Oui, l'accessibilité web permet aux utilisateurs souffrants de déficiences visuelles ou de motricité d'utiliser votre site que tout le monde.
-- Non, l'accessibilité web ne se résume pas qu'aux utilisateurs souffrants d'handicapes. Les populations étrangères, des réfugiers par exemple, peuvent souffrir de freins à l'accessibilité.
+- Non, l'accessibilité web ne se résume pas qu'aux utilisateurs souffrants d'handicapes. Les populations étrangères, des réfugiés par exemple, peuvent souffrir de freins à l'accessibilité.
 - Oui, il est certainement probable que vous ayez déjà bénéficié de ces technologies pour votre utilisation personnelle sans en avoir conscience. Par exemple, en affichant les sous-titres d'une vidéo.
 
 En bref, l'accessibilité web, c'est permettre que votre site web soit utilisable et consultable par tous les utilisateurs du monde entier, quel que soit leur pays, leur langue et leurs contraintes. Selon moi, l'accessibilité est l'un des principes les plus importants du web.
@@ -49,11 +49,11 @@ Il existe aujourd'hui deux canaux de communication liés à l'accessibilité : l
 
 Mais alors pourquoi avoir parlé de Mobile First en premier puis d'accessibilité après ? Quel est le rapport entre ces deux éléments ? C'est le moment de raccrocher les wagons !
 
-En fait, le Mobile First part d'une contrainte : concevoir dès le début un site utilisable aussi bien sur smartphone que sur ordinateur sans nivler l'expérience utilisateur vers le bas. La même chose peut être réalisée avec l'accessibilité.
+En fait, le Mobile First part d'une contrainte : concevoir dès le début un site utilisable aussi bien sur smartphone que sur ordinateur sans niveler l'expérience utilisateur vers le bas. La même chose peut être réalisée avec l'accessibilité.
 
 Bien souvent l'accessibilité n'est prise en compte qu'à la fin d'un projet et non dès le début. Le plus souvent, le site a déjà été mis en production et a ses premiers utilisateurs et on essaye d'ajouter une démarche d'accessibilité au forceps.
 
-Il en résulte des expériences déceptives et dégradées qui donnent une mauvaise image de l'accessibilité. Ce défaut de démarche d'accessibilité n'est pas fait sciement par les équipes mais est plus dû à un manque de connaissances sur le sujet.
+Il en résulte des expériences déceptives et dégradées qui donnent une mauvaise image de l'accessibilité. Ce défaut de démarche d'accessibilité n'est pas fait sciemment par les équipes mais est plus dû à un manque de connaissances sur le sujet.
 
 Or, intégrer une démarche d'accessibilité dans la conception d'un site n'est pas aussi compliqué que cela en a l'air. Il y a quelques connaissances à avoir certes mais il existe des ressources pour vous former !
 
