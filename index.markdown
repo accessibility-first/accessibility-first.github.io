@@ -13,4 +13,4 @@ Je suis actuellement en train de travailler sur le design du blog (comme vous po
 
 Si vous avez des questions sur un sujet, si j'ai fait une erreur ou que vous souhaitez me dire à quel point vous m'aimez ou me detesez, je vous invite à m'envoyer mail. Mon addresse est dans le pied de page.
 
-Merci, merci et bonne lecture.
+Merci et bonne lecture.
