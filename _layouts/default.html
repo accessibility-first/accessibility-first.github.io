@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+    
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="contenu principal de la page">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
+  </body>
+</html>

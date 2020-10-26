@@ -18,7 +18,7 @@ Bon, je pense que la majeure partie d'entre vous connaisse le concept de Mobile 
 
 Pour faire simple, le Mobile First est un concept qui est né il y a maintenant quelques années (en 2011 par Luke Wroblewski selon les internets) avec l’essor du web sur smartphone.
 
-L'idée étant de dire que **les concepteurs de site web**, qu'ils ou elles soient designers ou développeurs, **devaient penser la conception mobile dès le début d'un projet et non essayer de l'adapter en cours de route**. Autrement dit, cela veut dire concevoir et créer la version mobile, puis concevoir et créer la version desktop : les usages de ces supports étant foncièrement différents.
+L'idée étant de dire que **les concepteurs de site web**, qu'ils ou elles soient designers ou développeurs, **doivent penser la conception mobile dès le début d'un projet et non essayer de l'adapter en cours de route**. Autrement dit, cela veut dire concevoir et créer la version mobile, puis concevoir et créer la version desktop : les usages de ces supports étant foncièrement différents.
 
 D'ailleurs, côté code, on va d'abord développer la version mobile, qui est souvent plus simple en terme de "layout". Puis, on va adapter le côté, notamment la partie CSS, pour la partie desktop. Cette dernière étant souvent plus complexe que le mobile en terme de layout.
 
@@ -32,7 +32,7 @@ Si vous êtes en train de lire ce post, c'est certainement, du moins je l'espèr
 Selon [Wikipedia](https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_du_web), "***L'accessibilité du web est la problématique de l'accès aux contenus et services web par les personnes handicapées (déficients visuels, sourds, malentendants, etc.) et plus généralement par tous les utilisateurs, quels que soient leurs dispositifs d’accès (mobile, tablette, etc.) ou leurs conditions d’environnement (niveau sonore, éclairement, etc.).***"
 
 Je vous invite vraiment à lire l'article en entier sur Wikipedia. Je pense qu'on peut difficilement faire plus complet comme définition dans le sens où elle permet de comprendre que :
-- Oui, l'accessibilité web permet aux utilisateurs souffrants de déficiences visuelles ou de motricité d'utiliser votre site que tout le monde.
+- Oui, l'accessibilité web permet aux utilisateurs souffrants de déficiences visuelles ou de motricité d'utiliser votre site comme tout le monde.
 - Non, l'accessibilité web ne se résume pas qu'aux utilisateurs souffrants d'handicapes. Les populations étrangères, des réfugiés par exemple, peuvent souffrir de freins à l'accessibilité.
 - Oui, il est certainement probable que vous ayez déjà bénéficié de ces technologies pour votre utilisation personnelle sans en avoir conscience. Par exemple, en affichant les sous-titres d'une vidéo.
 
