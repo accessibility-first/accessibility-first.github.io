@@ -91,6 +91,10 @@ Ci-dessus : j'ai simulé de deux maladies. Comme vous pouvez le constater, cela 
 
 Voilà, vous arrivez au terme de ce blog post. Comme pour la dernière fois, je vous ai préparé quelques ressources complémentaires pour aller un peu plus loin sur le sujet :
 
+- **EN** - [Une ressource particulièrement complète sur l'accessibilité et le contraste.](https://webaim.org/articles/contrast/)
+- **EN** - [L'essentiel à retenir en moins 200 mots](https://a11y-101.com/design/contrast)
+- **EN** - Plutôt destiné aux designeurs, [cet article](https://xd.adobe.com/ideas/principles/web-design/color-contrast-considerations-accessibility-design/) permet d'aller plus loin sur l'intégration de l'accessibilité dans son design.
+
 Merci pour votre lecture.
 
 Le prochain article sera entièrement consacré au Storybook. Je vous montrerais comment en paramétrer un, quels problèmes j'ai déjà pu rencontrés et quelles extensions installées pour l'accessibilité.
